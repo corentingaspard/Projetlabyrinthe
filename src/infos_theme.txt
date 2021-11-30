@@ -1,0 +1,3 @@
+Thème Minecraft
+J. Caudron, C. Gaspard, T. Gronier, M. Dubois
+{"charbon","diamant","emeraude","or","fer","lapis","netherite","quartz","redstone","epee en diamant","totem","table d'enchantement","elytra","pomme d'or","canne a sucre","bouteille d'xp","cuir","livre"}
